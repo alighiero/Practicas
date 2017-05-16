@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+   <title>Page title</title>
+</head>
+<body>
+   <header>
+     <h1>Page title</h>
+</header>
+<nav>
+     <!-- Navegacion -->
+<ul>
+    <li class="selecionado><a href="#">Inicio</a></li>
+	<li><a href="#">Nosotros</a></li>
+	<li><a href="#">Ministerios</a></li>
+	<li><a href="#">Contactos</a></li>
+	<li class="subscribir"><a href="#">Suscribirse a RRS</a></li>
+</ul>	
+</nav>
+
+
+<section id="intro">
+<header>
+    <h2>Mision<h2>
+</header>
+<p>
+Somos una iglesia pentecostal dedicada a la expansion del Reino de Dios,
+a travez de la estrategia celular en sus diversas modalidades, el evangelismo,
+misiones, ministerio social, disipulado al estilo de Jesus y una pastoral adecuado para niños, jovenes y adultos.
+</p>
+
+<img src="images/intro_images.png" alt="Tecnologia"/>
+</section>
+<div id="content">
+        <div id="maintcontent">
+             <section>
+			    <article class="blogPost">
+				   <header>
+				     <h2>Historia <time datetime="2014-04-13723:31+01:00">Marzo 13 2014</time>
+					 por <a href="#">Edwin Portillo</a>-
+					 <a href="#comments">3 Comentarios</a></p>
+ <!-- Introduccion -->
+</section>
+<section>
+     <!-- Area de Contenido Principal -->
+</section>
+<aside>
+     <!-- Barra Lateral -->
+</aside>
+<footer>
+     <!-- Pie de Pagina -->
+<footer>
+</body>
+</html>
